@@ -31,7 +31,7 @@ export default function Index() {
         <main className="page-container">
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8">
             <div>
-              <h1 className="font-semibold tracking-tight">Welcome to PillMinder</h1>
+              <h1 className="font-semibold tracking-tight">Welcome to PillMinder by IPA 243</h1>
               <p className="text-muted-foreground mt-1">
                 <Calendar className="inline-block w-4 h-4 mr-1" />{today}
               </p>
